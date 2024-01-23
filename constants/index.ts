@@ -1,6 +1,6 @@
 const constants = {
-  symbolGwei: 'GJRG',
-  symbolWei: 'JRG',
+  symbolGwei: 'Gwei',
+  symbolWei: 'Wei',
   symbolEth: 'JRG',
   knownAddresses: {
     '0xB365ED6AC91c1EA3687cF872A6fA327BB786A4F4': 'Stone NFT',
