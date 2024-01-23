@@ -11,7 +11,13 @@ const Header: FC = () => {
       <Container>
         <Group align="center">
           <Text sx={{fontSize: '1.5em', fontWeight: 800}}>
-            <Link href="/">SBE 👓</Link>
+            <Link href="/">JRG Explorer 🐴</Link>
+          </Text>
+          <Text sx={{fontSize: '1.5em', fontWeight: 800}}>
+            <Link href="https://bit.ly/StoneNftDrop">NFT Drop 🖼</Link>
+          </Text>
+           <Text sx={{fontSize: '1.5em', fontWeight: 800}}>
+            <Link href="https://bit.ly/StoneNftDrop">Faucet 🚰</Link>
           </Text>
 
           {/* pushes the succeeding contents to the right */}
