@@ -19,6 +19,9 @@ const Header: FC = () => {
            <Text sx={{fontSize: '1.5em', fontWeight: 800}}>
             <Link href="https://faucet-jargoy.vercel.app/">Faucet 🚰</Link>
           </Text>
+          <Text sx={{fontSize: '1.5em', fontWeight: 800}}>
+            <Link href="https://portal.dymension.xyz/rollapp/jarangoyang_6379967-1/">Rollapp 💈</Link>
+          </Text>
 
           {/* pushes the succeeding contents to the right */}
           <span style={{flexGrow: 1}} />
