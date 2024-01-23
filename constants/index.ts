@@ -1,11 +1,11 @@
 const constants = {
   symbolGwei: 'GJRG',
   symbolWei: 'JRG',
-  symbolEth: 'Ether',
+  symbolEth: 'JRG',
   knownAddresses: {
-    '0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266': 'erhant',
-    '0x70997970c51812dc3a010c7d01b50e0d17dc79c8': 'alice',
-    '0x1820a4B7618BdE71Dce8cdc73aAB6C95905faD24': 'ERC1820',
+    '0xB365ED6AC91c1EA3687cF872A6fA327BB786A4F4': 'Stone NFT',
+    'minakjinggo': 'Discord Username',
+    '0x00804608Cfcd78a85AF1D4798a345DAaDDbbeDC0': 'Wanna TIP ?💙',
   },
 };
 
