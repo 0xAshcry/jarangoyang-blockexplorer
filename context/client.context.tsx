@@ -7,7 +7,7 @@ type ClientContextType = {
   updateClient: (rpcUrl: string, chainId: number) => Promise<boolean>;
 };
 const defaults: ClientContextType = {
-  client: new RPCClient('http://localhost:8545', 31337), // default client
+  client: new RPCClient('https://froopyland.dymension.xyz/21/jarangoyang_6379967-1-a/evmrpc', 0x6159bf), // default client
   updateClient: async (rpcUrl: string, chainId: number) => false, // dummy function
 };
 const ClientContext = createContext<ClientContextType>(defaults);
