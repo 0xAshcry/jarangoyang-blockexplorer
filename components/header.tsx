@@ -18,6 +18,7 @@ const Header: FC = () => {
           </Text>
            <Text sx={{fontSize: '1.5em', fontWeight: 800}}>
             <Link href="https://bit.ly/StoneNftDrop">Faucet 🚰</Link>
+           </Text>
           </Text>
 
           {/* pushes the succeeding contents to the right */}
